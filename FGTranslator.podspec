@@ -8,9 +8,6 @@ Pod::Spec.new do |s|
   
   s.author       = { "George Polak" => "george.polak@gmail.com" }
 
-  s.ios.platform     = :ios, "7.0"
-  s.osx.platform     = :osx, "10.8"
-
   s.source       = { :git => "https://github.com/gpolak/FGTranslator.git", :tag => "1.1.2" }
 
   s.source_files = 'FGTranslator', 'FGTranslator/XMLDictionary'
