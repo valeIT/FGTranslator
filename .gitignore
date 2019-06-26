@@ -18,3 +18,5 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
+
+/FGTranslatorDemo/Pods/
