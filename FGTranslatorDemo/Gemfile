@@ -1,0 +1,4 @@
+# Gemfile info here: http://bundler.io/v1.14/man/gemfile.5.html
+source "https://rubygems.org"
+# to use specific version of pod
+gem 'cocoapods'
